@@ -26,3 +26,19 @@ Il sito è statico, realizzato in HTML, CSS e JavaScript. La ricerca funziona ne
 La veste grafica riprende il modello Comuni di Designers Italia, con il carattere Titillium Web e una palette istituzionale blu. Le infografiche conservano i contenuti in testo HTML con un ordine di lettura esplicito. Titoli gerarchici, collegamento per saltare al contenuto e comandi da tastiera facilitano la consultazione anche attraverso tecnologie assistive. [Modello Comuni di Designers Italia](https://docs.italia.it/italia/designers-italia/design-comuni-docs/it/versione-corrente/index.html)
 
 **Edizione del dossier:** 9 novembre 2026.
+
+
+📄 Licenza
+
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri formatori o altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file LICENSE del repo.
+
+👤 Autore e contesto
+
+Gianluigi Cogo Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell'IA generativa nella Pubblica Amministrazione.
+
+L'app nasce come esercitazione nel percorso operativo "L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa" (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti). Per info sul corso contattatemi usando i social qui sotto.
+
+📮 Newsletter: gigicogo.substack.com
+📝 Blog: medium.com/webeconoscenza
+▶️ YouTube: youtube.com/@gigicogo
+💼 LinkedIn: linkedin.com/in/gigicogo
